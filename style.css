@@ -1,0 +1,15 @@
+.background-img {
+  background-image: url("./landing-background.jpg");
+  object-fit: cover;
+}
+
+.hero-icon {
+  height: 15rem;
+  width: 15rem;
+}
+
+.hero-text {
+  font-family: inherit;
+  font-size: 1.2rem;
+  font-weight: 600;
+}

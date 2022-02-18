@@ -1,0 +1,14 @@
+@import url("https://nyce-ui.vercel.app/nyce.css");
+
+.navigation {
+  height: 4rem;
+}
+
+.no-style-link,
+.no-style-link:hover,
+.no-style-link:active,
+.no-style-link:focus {
+  text-decoration: none;
+  color: inherit;
+  display: inherit;
+}

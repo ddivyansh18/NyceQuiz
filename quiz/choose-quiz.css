@@ -1,0 +1,6 @@
+.quiz-topics-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 40rem;
+}
