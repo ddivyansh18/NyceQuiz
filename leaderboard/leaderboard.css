@@ -1,0 +1,9 @@
+.leaderboard-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+
+.background-img {
+  background-image: url("./leaderboard-bg.jpg");
+}
