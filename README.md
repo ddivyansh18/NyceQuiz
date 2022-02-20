@@ -11,4 +11,5 @@ NyceQuiz is a quiz hosting website, uses can answer quizzes, earn points , climb
 - <a href="https://nycequiz.vercel.app/quiz/choose-quiz.html" target="_blank"> Choose Quiz </a>
 - <a href="https://nycequiz.vercel.app/rules/rules.html" target="_blank"> Rules </a>
 - <a href="https://nycequiz.vercel.app/quiz/quiz.html" target="_blank"> Play Quiz </a>
+- <a href="https://nycequiz-hqdk82f99-ddivyansh18.vercel.app/quiz/result.html" target="_blank"> Results </a>
 - <a href="https://nycequiz.vercel.app/leaderboard/current-leaderboard.html" target="_blank"> Current Leaderboard </a>
